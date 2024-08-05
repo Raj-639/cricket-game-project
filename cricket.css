@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+}
+.button-size{
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  background-color: black;
+  cursor: pointer;
+}
+.image-size{
+  height: 90px;
+  background-color: aqua;
+}
